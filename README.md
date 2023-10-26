@@ -2,7 +2,9 @@
 AMD FSR learning project with python. Before run main.py, please create directory "out".
 
 use:
+
 pip install PIL
+
 python main.py
 
 
